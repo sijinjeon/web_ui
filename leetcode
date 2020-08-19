@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <!--Title-->
+        <div>
+            <div>
+                Welcome to
+            </div>
+            <div>
+                LeetCode Explore
+            </div>
+            <div>
+                Favorite
+                History
+            </div>
+        </div>
+        <div>
+            <div>
+                Featured
+            </div>
+            <div>
+                More
+            </div>
+        </div>
+
+        <!--Featured Card-->
+        <div>
+            <div>
+                Take This
+            </div>
+            <div>
+                Day 19
+            </div>
+            <div>
+                August<br>
+                LeetCoding<br>
+                Challenge
+            </div>
+            <div>
+                Play button
+            </div>
+            <div>
+                5
+            </div>
+            <div>
+                Chapter
+            </div>
+            <div>
+                22
+            </div>
+            <div>
+                Items
+            </div>
+            <div>
+                0%
+            </div>
+        </div>
+
+        <!--Interview Card-->
+        <div>
+            <div>
+                Get Well Prepared for
+            </div>
+            <div>
+                Premium
+            </div>
+            <div>
+                Google Interview
+            </div>
+            <div>
+                9
+            </div>
+            <div>
+                Chapter
+            </div>
+            <div>
+                85
+            </div>
+            <div>
+                Items
+            </div>
+            <div>
+                lock icon
+            </div>
+            <div>
+                Locked
+            </div>
+        </div>
+    </div>
+    
+      
+</body>
+</html>
